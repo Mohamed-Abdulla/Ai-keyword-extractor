@@ -3,6 +3,12 @@ Keyword Extractor
 
 Keyword Extractor is a web application that extracts keywords from paragraphs using OpenAI's state-of-the-art language models. The application is built using React, Chakra UI, and CSS.
 
+
+Demo
+----
+
+You can view a live demo of my website [here](https://ai-keyword-extractor-abd.vercel.app/).
+
 Getting Started
 ---------------
 
